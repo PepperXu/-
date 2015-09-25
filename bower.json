@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "0.0..",
+  "authors": [
+    "PepperXu <XPS83535135@gmail.com>"
+  ],
+  "description": "a test program for nothing",
+  "main": "index.html",
+  "moduleType": [
+    "yui"
+  ],
+  "keywords": [
+    "123456"
+  ],
+  "license": "MIT",
+  "homepage": "na"
+}
